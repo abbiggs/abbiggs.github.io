@@ -10,6 +10,8 @@
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
+      
+    <title>Austin Biggs</title>
   </head>
   <body>
     <div class="wrapper">
@@ -17,7 +19,7 @@
         <h1><a href="{{ "https://github.com/abbiggs" | absolute_url }}">Austin Biggs</a></h1>
         
         {% if site.logo %}
-          <img src="{{site.profile | relative_url}}" alt="Profile Picture" />
+          <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
