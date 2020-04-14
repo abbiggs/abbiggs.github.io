@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Capstone Project 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Pdf In Browser Rendering](/sample_page)
+<img src="images/CapstoneScreenshot.JPG?raw=true/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
