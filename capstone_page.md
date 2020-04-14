@@ -30,10 +30,13 @@ To solve the main problem with Pdf.js - front end rendering - Pdfium came in han
 
 ### 4. Screenshots
 
+Basic Rendering
 ![Basic Rendering](images/CapstoneScreenshot.JPG)
 
+Zoom In
 ![Zoom In](images/CapstoneZoomIn.JPG)
 
+Redaction
 ![Redaction](images/CapstoneRedaction.JPG)
 
 
