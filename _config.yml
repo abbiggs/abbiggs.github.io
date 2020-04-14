@@ -1,10 +1,10 @@
-title: John Doe # your name (or website title) here
+title: Austin Biggs # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Senior at Ball State University.
   <br><br>
-  Second description 
-  <br><br>
+  Graduating May 2020, with a major in Computer Science.
+  
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal

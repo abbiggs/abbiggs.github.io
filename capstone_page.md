@@ -1,4 +1,4 @@
-## This can be your internal website page / project page
+## Capstone Project
 
 **Project description:** The purpose of this project was to provide a faster Pdf renderer for web browsers for our client.  When we started this project, our client was using a custom renderer they had built using Pdf.js, which is Mozilla Firefoxs' built in Pdf renderer. However the nature of Pdf.js controlling everything through the front end made it slow with large documents, and rather cumbersome to add functionality to. So our solution was to use Googles open source Pdfium. 
 
