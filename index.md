@@ -4,7 +4,7 @@
 
 ### Capstone Project 
 
-[Pdf In Browser Rendering](/sample_page)
+[Pdf In Browser Rendering](/capstone_page)
 <img src="images/CapstoneScreenshot.JPG?raw=true/>
 
 ---
