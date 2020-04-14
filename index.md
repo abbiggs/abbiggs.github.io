@@ -19,20 +19,22 @@
 
 ### Work Experience
     
-    Current Occupation
-        - NTN Driveshaft Anderson
+#### Current Occupation 
+
+NTN Driveshaft Anderson
         
-        Job Title
-            - IT Intern
+Job Title
+    - IT Intern
         
-        Job Description
-            - Develop software in house to aid and improve the mass production 
-              of CVJ driveshafts.
-              
-    Previous Employment
-        - Lowes Home Improvement
-        - Barnyard Greenhouse
-        - Sansberry, Dickmann, Builta & Cook Law Office
+Job Description
+    - Develop software in house to aid and improve the mass production 
+      of CVJ driveshafts.
+
+#### Previous Employment
+
+- Lowes Home Improvement
+- Barnyard Greenhouse
+- Sansberry, Dickmann, Builta & Cook Law Office
 
 ### Technical Experience
 
