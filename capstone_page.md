@@ -23,7 +23,7 @@ To solve the main problem with Pdf.js - front end rendering - Pdfium came in han
 ### 3. Features List
 
 - Backend rendering
-- Front end load pages on demand
+- Frontend load pages on demand
 - Hidden text layer
 - Page jumping via page number
 - Zooming
