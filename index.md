@@ -2,8 +2,10 @@
 
 ---
 
-### Capstone Project 
 
-[Pdf In Browser Rendering](/capstone_page)
+
+[Capstone Project](/capstone_page)
+
+[Other Projects](/other_projects)
 <br><br>
-<img src="images/CapstoneScreenshot.JPG?raw=true"/>
+
