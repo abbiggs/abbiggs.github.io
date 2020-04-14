@@ -20,7 +20,16 @@
 
 To solve the main problem with Pdf.js - front end rendering - Pdfium came in handy.  With Pdfium, we were able to render the documents on the backend, and send them to the front end using API calls that were made when the page reached a certain scroll position. Our goal was the stay one page ahead of wherever the user currently was, so as soon as the top of the last page was scrolled into the viewport, the frontend would make an API call for the next page.  The API calls return an image path for the rendered page, and all of the hidden text layer information as a two dimensional array, all contained inside a single JSON object.  Being able to render pages on demand also aided in solving the speed issue PDF.js has with large documents.  When the user selects a Pdf to load, the server renders and saves a small chunk of pages, and sends them to the front end, and then proceeds to begin rendering and saving the remaining pages, which are made available to the API calls as soon as they're saved. This resulted in the user being able to start viewing the document they selected much faster.
 
-### 3. My Contributions
+### 3. Features List
+
+- Backend rendering
+- Front end load pages on demand
+- Hidden text layer
+- Page jumping via page number
+- Zooming
+- Redactions
+
+### 4. My Contributions
 
 - Getting Pdfium up and running
 - Backend rendering of documents
