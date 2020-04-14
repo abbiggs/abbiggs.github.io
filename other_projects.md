@@ -23,3 +23,15 @@
 - IntelliJ
 - Java
 - Multithreaded Programming
+
+
+### 2. File System Event Monitor
+
+**Project Description**: With this project I made use of the Python library Watchdog.  Using Watchdog, I created an file system event handler that would 'watch' my Downloads folder. Whenever a new file was downloaded, or copy/paste into my Downloads folder, the system will check the file type, and move the file to a folder corresponding to it's file type. I also made use of Windows Task Scheduler to create a task that would start this program whenever I log in, so it is always running in the background, and my Downloads folder remains clutter free.
+
+
+**Tech Stack**:
+
+- Visual Studio Code
+- Python
+- Watchdog
