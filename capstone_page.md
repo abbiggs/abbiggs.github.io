@@ -31,6 +31,8 @@ To solve the main problem with Pdf.js - front end rendering - Pdfium came in han
 ### 4. Screenshots
 
 ![](images/CapstoneScreenshot.JPG)
+![](images/CapstoneZoomIn.JPG)
+![](images/CapstoneRedaction.JPG)
 
 
 For more details see [The Repository](https://github.com/abbiggs/PDF_ASP.Net).
