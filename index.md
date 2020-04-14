@@ -4,8 +4,6 @@
 
 ## Projects
 
----
-
 [Capstone Project](/capstone_page)
 
 [Other Projects](/other_projects)
@@ -15,6 +13,7 @@
 ---
 
 ### Education
+
     - Core 40 Diploma from Frankton Jr/Sr High School in Frankton, Indiana
     - Bachelor of Science in Computer Science at Ball State University, May 2020
 
