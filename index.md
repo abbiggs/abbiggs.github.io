@@ -42,7 +42,7 @@ ___
 
 ### Hobbies
 
-I am an all around outdoorsman that loves to hunt and fish. I've also been powerlifting for almsot 10 years now and love a good competition.
+I am an all around outdoorsman that loves to hunt and fish. I've also been powerlifting for almost 10 years now and love a good competition.
 
 <br><br>
 
