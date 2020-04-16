@@ -14,6 +14,8 @@
 
 [Technical Experience](/technical_exp)
 
+[Hobbies](/hobbies_page)
+
 ### Education
 
 - Core 40 Diploma from Frankton Jr/Sr High School in Frankton, Indiana
@@ -39,13 +41,6 @@ Job Description: Develop software in house to aid and improve the mass productio
 - Sansberry, Dickmann, Builta & Cook Law Office
 
 ___
-
-### Technical Experience
-
-### Hobbies
-
-
-
 
 <br><br>
 
